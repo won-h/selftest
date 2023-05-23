@@ -1,3 +1,0 @@
-# selftest
-
-study or testing!
